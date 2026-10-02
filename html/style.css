@@ -1,0 +1,51 @@
+body{
+    background-color:antiquewhite;
+    margin: 30px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    max-width: 1500px;
+}
+
+.container{
+    background-color: antiquewhite;
+    max-width: 1500px;
+}
+
+.picture-box{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.picture-box img{
+    max-width: 100%;
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.Ancient-card{
+    margin-top: 200px;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    max-width: 1500px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+.logo{       
+    width: 100%;       
+    max-width: 480px;  
+    height: auto;      
+    display: block;
+    margin: 20px auto;
+}
